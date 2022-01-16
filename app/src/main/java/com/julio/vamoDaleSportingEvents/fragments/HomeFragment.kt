@@ -1,11 +1,11 @@
-package com.julio.vamo_dale_sporting_events.fragments
+package com.julio.vamoDaleSportingEvents.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.julio.vamo_dale_sporting_events.R
+import com.julio.vamoDaleSportingEvents.R
 
 
 class HomeFragment : Fragment() {

@@ -1,7 +1,7 @@
-package com.julio.vamo_dale_sporting_events.viewmodel
+package com.julio.vamoDaleSportingEvents.viewmodel
 
 import androidx.lifecycle.ViewModel
-import com.julio.vamo_dale_sporting_events.repository.MainRepository
+import com.julio.vamoDaleSportingEvents.repository.MainRepository
 
 class MainViewModel( private val mainRepository: MainRepository ) : ViewModel() {
 

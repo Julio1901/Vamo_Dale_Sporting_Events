@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.julio.vamo_dale_sporting_events">
+    package="com.julio.vamoDaleSportingEvents">
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
-        android:name=".di.AppApplication"
+        android:name="com.julio.vamoDaleSportingEvents.di.AppApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Vamo_Dale_Sporting_Events">
         <activity
-            android:name=".MainActivity"
+            android:name="com.julio.vamoDaleSportingEvents.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

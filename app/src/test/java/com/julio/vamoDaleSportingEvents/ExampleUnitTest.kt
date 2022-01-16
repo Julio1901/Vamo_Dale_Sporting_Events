@@ -1,4 +1,4 @@
-package com.julio.vamo_dale_sporting_events
+package com.julio.vamoDaleSportingEvents
 
 import org.junit.Test
 

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/loginFragment"
-        android:name="com.julio.vamo_dale_sporting_events.fragments.LoginFragment"
+        android:name="com.julio.vamoDaleSportingEvents.fragments.LoginFragment"
         android:label="fragment_login"
         tools:layout="@layout/fragment_login" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.julio.vamo_dale_sporting_events.fragments.HomeFragment"
+        android:name="com.julio.vamoDaleSportingEvents.fragments.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
 </navigation>

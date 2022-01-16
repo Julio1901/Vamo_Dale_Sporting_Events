@@ -1,7 +1,7 @@
-package com.julio.vamo_dale_sporting_events.di
+package com.julio.vamoDaleSportingEvents.di
 
-import com.julio.vamo_dale_sporting_events.repository.MainRepository
-import com.julio.vamo_dale_sporting_events.viewmodel.MainViewModel
+import com.julio.vamoDaleSportingEvents.repository.MainRepository
+import com.julio.vamoDaleSportingEvents.viewmodel.MainViewModel
 import org.koin.android.viewmodel.dsl.viewModel
 import org.koin.dsl.module
 

@@ -1,4 +1,4 @@
-package com.julio.vamo_dale_sporting_events.di
+package com.julio.vamoDaleSportingEvents.di
 
 import android.app.Application
 import org.koin.android.ext.koin.androidContext
